@@ -568,6 +568,10 @@ h6 {
 @media (max-width: 767px) {}
 
 @media (max-width: 575px) {
+    .huggy_mail {
+        height: auto;
+        background-size: cover;
+    }
     .header_text {
         width: 100%;
     }
